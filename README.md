@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Social Steam Systems Project
 
 ## Overview
