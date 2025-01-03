@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "name": "steam-roadmap-frontend",
   "version": "1.0.0",
@@ -17,4 +18,20 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   }
+=======
+{
+  "name": "steam-roadmap-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  }
+>>>>>>> f96cd300ce63ab6e97d82b915d97ec530bc203d3
 }

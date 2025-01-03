@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 
@@ -102,4 +103,17 @@ function GameCatalog() {
     );
 }
 
+=======
+import React from 'react';
+
+function GameCatalog() {
+    return (
+        <div>
+            <h2>Game Catalog</h2>
+            {/* Game listing will go here */}
+        </div>
+    );
+}
+
+>>>>>>> f96cd300ce63ab6e97d82b915d97ec530bc203d3
 export default GameCatalog;

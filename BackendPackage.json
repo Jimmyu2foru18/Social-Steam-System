@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "name": "steam-roadmap-backend",
   "version": "1.0.0",
@@ -19,4 +20,22 @@
   "devDependencies": {
     "nodemon": "^2.0.7"
   }
+=======
+{
+  "name": "steam-roadmap-backend",
+  "version": "1.0.0",
+  "main": "config/server.js",
+  "scripts": {
+    "start": "node config/server.js",
+    "dev": "nodemon config/server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.6.0",
+    "dotenv": "^10.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+>>>>>>> f96cd300ce63ab6e97d82b915d97ec530bc203d3
 }
