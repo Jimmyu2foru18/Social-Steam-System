@@ -24,7 +24,7 @@ This project aims to create a platform similar to IMDB for games, integrating fe
 - React
 - Express
 - PostgreSQL
-=======
+  
 # Social Steam Systems Project
 
 ## Overview
@@ -51,5 +51,4 @@ This project aims to create a platform similar to IMDB for games, integrating fe
 - React
 - Express
 - PostgreSQL
->>>>>>> f96cd300ce63ab6e97d82b915d97ec530bc203d3
 - Node.js
